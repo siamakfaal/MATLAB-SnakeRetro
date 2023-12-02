@@ -5,10 +5,15 @@ Welcome to **MATLAB-SnakeRetro**, where the time-honored classic of the Snake ga
 The MATLAB-SnakeRetro project is our homage to one of the most iconic mobile games. It aims to recreate the addictive simplicity of the original Snake game, utilizing MATLAB’s advanced programming features to enhance the gaming experience.
 
 ## Features
+
 **Classic Gameplay:** Relive the charm of the original Snake game, with a gameplay experience that stays true to the classic.
+
 **MATLAB Enhanced Graphics:** Enjoy smooth gameplay and crisp graphics powered by MATLAB's graphical capabilities.
+
 **Adjustable Game Settings:** Personalize your gameplay with customizable settings such as snake speed and screen size.
+
 **High Score Tracker:** Keep a record of your best scores in each session, adding a competitive twist to your game.
+
 **Broad Compatibility:** Runs on various versions of MATLAB, ensuring accessibility for a wide range of users.
 
 ## How to Play
