@@ -23,5 +23,6 @@ Your contributions and ideas are welcome at MATLAB-SnakeRetro. Feel free to fork
 
 ## License
 This project is distributed under the MIT License. For more information, see the LICENSE file in the repository.
+
 ---
 Rediscover the joy of Snake with MATLAB-SnakeRetro! 🐍🕹️
